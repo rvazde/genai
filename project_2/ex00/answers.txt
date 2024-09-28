@@ -1,0 +1,12 @@
+(a)
+pip list
+
+(b)
+pip show numpy
+
+(c)
+pip uninstall numpy
+
+(d)
+pip freeze > requirements.txt
+
